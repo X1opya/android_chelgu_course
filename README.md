@@ -1,9 +1,9 @@
 
-#[Презентация](https://docs.google.com/presentation/d/18GShrI56AkB5VFQc4H7T0iR0NpH2gM-6iUYgEPf9_Vk/edit?usp=sharing)
+## [Презентация](https://docs.google.com/presentation/d/18GShrI56AkB5VFQc4H7T0iR0NpH2gM-6iUYgEPf9_Vk/edit?usp=sharing)
 
-# [Задание](https://docs.google.com/document/d/198kKLx7_HwA09CKpAglYI5wCD3UBSzDDcdTFpTBpSws/edit?usp=sharing)
+## [Задание](https://docs.google.com/document/d/198kKLx7_HwA09CKpAglYI5wCD3UBSzDDcdTFpTBpSws/edit?usp=sharing)
 
-#Полезные ссылки
+# Полезные ссылки
 
 онлайн-компилятор - https://try.kotlinlang.org/ 
 
