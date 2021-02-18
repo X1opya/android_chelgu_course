@@ -1,4 +1,4 @@
-##17.02.2021
+## 17.02.2021
 ## [Презентация](https://docs.google.com/presentation/d/1_DMlHsP_EheraCGxeRYN6eKRuvRieZr22EuMKgAqOtM/edit?usp=sharing)
 
 ## Задание описано в презентации
